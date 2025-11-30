@@ -19,7 +19,7 @@ install.packages("GDINA")
 install.packages("parallel")
 
 # Load the script locally
-source("Q_refinement.R")
+source("Iterative_Q_Refinement")
 
 # Example Workflow
 
