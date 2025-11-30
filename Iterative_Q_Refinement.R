@@ -1,7 +1,7 @@
 # -------------------------------------------------------------------------
 # Title:        GDINA Q-Matrix Refinement (Maximum Speed Optimization)
 # Description:  Automated Q-matrix validation and refinement using parallel processing.
-# License:      MIT
+# License:      Copyright (c) 2025 [Fahri Yilmaz]. All Rights Reserved.
 # -------------------------------------------------------------------------
 
 if(!require(GDINA)) install.packages("GDINA")
